@@ -1,16 +1,15 @@
 ### Hi there 👋
+## I am JayaShankar Mangina
 
-<!--
-**jyshnkr/jyshnkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Graduate Student Pursuing Final semester of Master's in Applied Computer Science at NorthWest Missouri State University.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building an iOS App - [Community Emergency response Team](https://github.com/VarshithReddyBairy/CERT)
+- 🌱 I’m currently learning Swift, Data Structures
+- 👯 I’m looking to collaborate on iOS Application Development
+- 💬 Ask me about technology, Gadgets, Science and Geek Stuff
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an Introvert.
+- 📫 How to reach me: 
+  - Email : jayashankar2904@gmail.com
+  - LinkedIn : [JayaShankar Mangina](https://linkedin.com/in/jayashankarmangina)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
