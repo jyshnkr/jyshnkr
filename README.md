@@ -5,7 +5,7 @@ I am a Graduate Student Pursuing Final semester of Master's in Applied Computer 
 <img src="https://github.com/jyshnkr/jyshnkr/blob/main/Linkedin.jpg" width="500" height="500">
 
 - 🔭 I’m currently working on building an iOS App - [Community Emergency response Team](https://github.com/VarshithReddyBairy/CERT)
-- 🌱 I’m currently learning Swift, Data Structures, iOS Application Development ( [RayWenderLich](https://www.raywenderlich.com) & [Hacking With Swift](https://hackingwithswift.com))
+- 🌱 I’m currently learning Swift, Data Structures, iOS Application Development ( [RayWenderLich](https://www.raywenderlich.com) & [Hacking With Swift](https://hackingwithswift.com) )
 - 👯 I’m looking to collaborate on iOS Application Development
 - 💬 Ask me about Technology, Gadgets, Computers, Science and Geek Stuff.
 - 😄 Pronouns: He/Him
