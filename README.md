@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am JayaShankar Mangina
-I'm currently working as SDE-1 at Amazon Web Services. 
+I'm currently working as SDE-1 at [Amazon Web Services](https://github.com/aws)
 
 <img src="https://github.com/jyshnkr/jyshnkr/blob/main/Linkedin.jpg" width="500" height="500">
 
