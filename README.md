@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am JayaShankar Mangina
-I'm currently working as Senior Software Engineer at [Toyota Connected N.A](https://github.com/toyotaconnected-na)
+I'm a Senior Software Engineer.
 
 - 📫 Contact me: 
   - Email : jyshnkr.careers@gmail.com
